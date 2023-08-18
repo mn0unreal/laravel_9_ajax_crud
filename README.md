@@ -1,6 +1,6 @@
 
 
-## Laravel crud using ajax sample
+## Laravel crud using ajax bootstrap sample
 
 ![alt text](https://github.com/mn0unreal/laravel_9_ajax_crud/blob/master/public/photos/web-photo1.JPG)
 
